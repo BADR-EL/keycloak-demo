@@ -1,0 +1,11 @@
+.container {
+  padding: 100px;
+  margin-left: 20%;
+  margin-right: 20%;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.secured {
+  background-color: blueviolet;
+}
